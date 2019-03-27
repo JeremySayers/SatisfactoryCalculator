@@ -1,0 +1,10 @@
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\bin\Debug\SatCalc.exe.config
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\bin\Debug\SatCalc.exe
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\bin\Debug\SatCalc.pdb
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\obj\Debug\SatCalc.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\obj\Debug\SatCalc.Form1.resources
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\obj\Debug\SatCalc.Properties.Resources.resources
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\obj\Debug\SatCalc.csproj.GenerateResource.cache
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\obj\Debug\SatCalc.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\obj\Debug\SatCalc.exe
+C:\Users\Jeremy\source\repos\SatCalc\SatCalc\obj\Debug\SatCalc.pdb
